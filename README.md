@@ -2,7 +2,7 @@
 
 ## Installation
 
-    go get github.com/Lavina-Tech-LLC/lavina-console-logger.git
+    go get 'github.com/Lavina-Tech-LLC/lavina-utils'
 
 ## Usage
 
